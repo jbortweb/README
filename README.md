@@ -14,7 +14,7 @@
 &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbortweb&layout=compact"/>
 </p>
 <br>
-### Contacto
+<h3>Contacto</h3>
 
 <a href="https://www.linkedin.com/in/jordi-bort/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Jordi Bort" height="15" width="40" />linkedin</a>
 
