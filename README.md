@@ -4,7 +4,7 @@
 
 - 👷 Yo trabajo de **Front End Developer**
 
-- 💻 Los lenguajes que domino son **JavaScript, HTML5, CSS3**
+- 💻 Los lenguajes que domino son **JavaScript, HTML5, CSS3, ReactJs**
 
 <p>
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jbortweb&show_icons=true&theme=radical)" alt="jbortweb" />
