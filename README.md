@@ -4,8 +4,9 @@
 
 - 👷 Yo trabajo de **Front End Developer**
 
-- 💻 Los lenguajes que domino son **JavaScript, HTML5, CSS3, ReactJs**
-- :open_book: Actualmente estudiando **VueJs, Nuxt, Vuetify**
+- 💻 Los lenguajes que domino son **JavaScript, HTML5, CSS3, ReactJs, VueJs, Nuxt** 
+
+- :open_book: Conocimientos de **Redux, JSX, Hooks, SCSS, Vuetify, jQuery, Bootstrap, Git, Gimp, Trello, Linux, SEO y UX, Material UI,etc.**
 
 <p>
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jbortweb&show_icons=true&theme=radical)" alt="jbortweb" />
@@ -19,4 +20,4 @@
 
 <a href="https://www.linkedin.com/in/jordi-bort/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Jordi Bort" height="15" width="40" />linkedin</a>
 
-<a href="mailto:csalvadordiaz689@gmail.com " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Jordi Bort" height="15" width="40" />jbortweb@gmail.com</a>
+<a href="mailto:jbortweb@gmail.com " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Jordi Bort" height="15" width="40" />jbortweb@gmail.com</a>
