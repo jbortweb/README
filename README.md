@@ -4,7 +4,7 @@
 
 - 👷 Yo trabajo de **Front End Developer**
 
-- 💻 Los lenguajes que domino son **JavaScript, HTML5, CSS3, ReactJs, VueJs, Nuxt** 
+- 💻 Los lenguajes que domino son **JavaScript, HTML5, CSS3, ReactJs, VueJs, Nuxt, PHP, Laravel** 
 
 - :open_book: Conocimientos de **Redux, JSX, Hooks, SCSS, Vuetify, jQuery, Bootstrap, Git, Gimp, Trello, Linux, SEO y UX, Material UI,etc.**
 
